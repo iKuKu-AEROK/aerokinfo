@@ -25,9 +25,9 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <a href="https://play.google.com/store/apps/details?id=com.ikuku.app.callilang" target="_blank" style="color:'#000'"><strong>JavaScript</strong><span class="light">&nbsp;</span></a>
+      <a href="https://play.google.com/store/apps/details?id=com.ikuku.app.callilang" target="_blank" style="color:'#000'"><strong>JavaScript</strong><span class="light">&nbsp;JavaScript 기본 개념, Data Type, 배열, 함수, This 등의 개념을 익힐 수 있도록 정리하였습니다.</span></a>
     content:
-      JavaScript 기본 개념, Data Type, 배열, 함수, This 등의 개념을 익힐 수 있도록 정리하였습니다.
+      
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ in Canada
