@@ -25,14 +25,9 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-      edits throughout your new site</span>
+      <strong>JavaScript</strong><span class="light">&nbsp;</span>
     content:
-      Each block comes with custom Front Matter that can be edited in
-      Forestry CMS.
-    media:
-      image: "/uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
+      JavaScript 기본 개념, Data Type, 배열, 함수, This 등의 개념을 익힐 수 있도록 정리하였습니다.
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ in Canada
