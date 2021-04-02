@@ -35,7 +35,7 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <a href="https://ikuku-aerok.github.io/javascript/" target="_blank" style="color:#000;text-decoration:none;"><strong>Android Application</strong><span class="light">&nbsp;AEROK 가 만든 Android Application 입니다.</span></
+      <a href="https://ikuku-aerok.github.io/application/" target="_blank" style="color:#000;text-decoration:none;"><strong>Android Application</strong><span class="light">&nbsp;AEROK 가 만든 Android Application 입니다.</span></
     content: 
       캘리랑 - 사진에 글쓰기</br>
       카특이 - 카톡에 특수문자 이모티콘 보내기</br>
