@@ -25,7 +25,7 @@ page_sections:
     media_alignment: Right
     slug: customize
     headline:
-      <strong>JavaScript</strong><span class="light">&nbsp;기본 개념 정리</span>
+      <a href="https://play.google.com/store/apps/details?id=com.ikuku.app.callilang" target="_blank" style="color:#000;text-decoration:none;"><strong>JavaScript</strong><span class="light">&nbsp;기본 개념 정리</span></
     content: 
       JavaScript 개념, Data Type, 배열, 함수, This 등의 개념을 정리한 포스트입니다.
   - template: simple-footer
