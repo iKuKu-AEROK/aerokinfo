@@ -12,11 +12,12 @@ page_sections:
   - template: hero-banner-w-image
     block: hero-2
     slug: features
-    headline: Developer <br><strong>A-EROK</strong>
+    headline: <a href="https://ikuku-aerok.github.io/introduce/" target="_blank" style="color:#fff;text-decoration:none;">Developer <br><strong>A-EROK</strong></a>
     content:
+      <a href="https://ikuku-aerok.github.io/introduce/" target="_blank" style="color:#fff;text-decoration:none;">
       개발자 A-EROK 입니다.<br/>
-      AEROK 는 KOREA 를 거꾸로 한 명칭입니다<br/>
-      <a href="https://ikuku-aerok.github.io/introduce/" target="_blank" style="color:#fff;text-decoration:none;">[ 개발자 소개 및 주요 경력 바로가기 ]</a>
+      AEROK 는 KOREA 를 거꾸로 한 명칭입니다<br/><br/>
+      [ 개발자 소개 및 주요 경력 바로가기 ]</a>
     image:
       image: "/uploads/main.png"
       alt_text: Product Shot
