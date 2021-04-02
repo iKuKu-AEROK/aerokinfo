@@ -20,6 +20,19 @@ page_sections:
       image: "/uploads/main.png"
       alt_text: Product Shot
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  - template: content-feature
+    block: feature-1
+    media_alignment: Right
+    slug: customize
+    headline:
+      <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
+      edits throughout your new site</span>
+    content:
+      Each block comes with custom Front Matter that can be edited in
+      Forestry CMS.
+    media:
+      image: "/uploads/2018/06/21/edit.gif"
+      alt_text: Customize Blocks
   - template: simple-footer
     block: footer-1
     content: Made with ❤︎ in Canada
