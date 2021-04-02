@@ -45,5 +45,5 @@ page_sections:
   
   - template: simple-footer
     block: footer-1
-    content: Developer AEROK
+    content: Developer @ AEROK
 ---
