@@ -14,7 +14,7 @@ page_sections:
     slug: features
     headline: Developer <br><strong>A-EROK</strong>
     content:
-      개발자 A-EROK 입니다<br/>
+      개발자 A-EROK 입니다.<br/>
       AEROK 는 KOREA 를 거꾸로 한 명칭입니다<br/>
       Android Application 을 만듭니다
     image:
