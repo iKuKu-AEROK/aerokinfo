@@ -15,7 +15,8 @@ page_sections:
     headline: Developer <br><strong>A-EROK</strong>
     content:
       개발자 A-EROK 입니다.<br/>
-      AEROK 는 KOREA 를 거꾸로 한 명칭입니다      
+      AEROK 는 KOREA 를 거꾸로 한 명칭입니다<br/>
+      <a href="https://ikuku-aerok.github.io/introduce/" target="_blank" style="color:#fff;text-decoration:none;">[ 개발자 소개 및 주요 경력 바로가기 ]</a>
     image:
       image: "/uploads/main.png"
       alt_text: Product Shot
@@ -37,10 +38,10 @@ page_sections:
     headline:
       <a href="https://ikuku-aerok.github.io/application/" target="_blank" style="color:#000;text-decoration:none;"><strong>Android Application</strong><span class="light">&nbsp;- AEROK 가 만든 Android Application 입니다.</span></
     content: 
-      캘리랑 - 사진에 글쓰기</br>
-      카특이 - 카톡에 특수문자 이모티콘 보내기</br>
-      테프사 - SNS 테두리 프로필 사진 만들기</br>
-      실사웹툰만들기 - 내 사진으로 웹툰 만들기</br>
+      캘리랑 - 사진에 글쓰기<br/>
+      카특이 - 카톡에 특수문자 이모티콘 보내기<br/>
+      테프사 - SNS 테두리 프로필 사진 만들기<br/>
+      실사웹툰만들기 - 내 사진으로 웹툰 만들기<br/>
       나우비트 - 코인 현재가 음성으로 반복 안내하기
   
   - template: simple-footer
