@@ -20,15 +20,30 @@ page_sections:
       image: "/uploads/main.png"
       alt_text: Product Shot
     background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  
   - template: content-feature
     block: feature-1
     media_alignment: Right
     slug: customize
     headline:
-      <a href="https://play.google.com/store/apps/details?id=com.ikuku.app.callilang" target="_blank" style="color:#000;text-decoration:none;"><strong>JavaScript</strong><span class="light">&nbsp;기본 개념 정리</span></
+      <a href="https://ikuku-aerok.github.io/javascript/" target="_blank" style="color:#000;text-decoration:none;"><strong>JavaScript</strong><span class="light">&nbsp;기본 개념 정리</span></
     content: 
       JavaScript 개념, Data Type, 배열, 함수, This 등의 개념을 정리한 포스트입니다.
+  
+  - template: content-feature
+    block: feature-1
+    media_alignment: Right
+    slug: customize
+    headline:
+      <a href="https://ikuku-aerok.github.io/javascript/" target="_blank" style="color:#000;text-decoration:none;"><strong>Android Application</strong><span class="light">&nbsp;AEROK 가 만든 Android Application 입니다.</span></
+    content: 
+      캘리랑 - 사진에 글쓰기</br>
+      카특이 - 카톡에 특수문자 이모티콘 보내기</br>
+      테프사 - SNS 테두리 프로필 사진 만들기</br>
+      실사웹툰만들기 - 내 사진으로 웹툰 만들기</br>
+      나우비트 - 코인 현재가 음성으로 반복 안내하기
+  
   - template: simple-footer
     block: footer-1
-    content: Made with ❤︎ in Canada
+    content: Developer AEROK
 ---
