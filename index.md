@@ -30,7 +30,7 @@ page_sections:
     headline:
       <a href="https://ikuku-aerok.github.io/javascript/" target="_blank" style="color:#000;text-decoration:none;"><strong>JavaScript</strong><span class="light">&nbsp;- 기본 개념 정리</span></
     content: 
-      JavaScript 개념, Data Type, 배열, 함수, This 등의 개념을 정리한 포스트입니다.
+      JavaScript 개념, Data Type, 배열, 함수 등의 개념을 정리한 포스트입니다.(자료 작성중)
   
   - template: content-feature
     block: feature-1
