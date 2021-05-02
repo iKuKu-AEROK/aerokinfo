@@ -7,7 +7,7 @@ page_sections:
     block: header-2
     logo: "/uploads/logo.png"  
     cta:
-     url: https://ikuku-aerok.github.io/aerokpage/
+     url: https://ikuku-aerok.github.io/aerokinfo
      button_text: A-EROK
   - template: hero-banner-w-image
     block: hero-2
